@@ -2,9 +2,8 @@
 
 ```uml
 @startuml
-
 start
- 
+
 fork
   :"Upload dataset";
 fork again
@@ -33,6 +32,5 @@ end fork
 :"Export reports";
 
 stop
-
 @enduml
 ```
