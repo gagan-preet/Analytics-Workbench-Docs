@@ -1,7 +1,3 @@
-## Use Cases
-
-### Stats Enthusiast
-
 ```uml
 @startuml
 
@@ -69,4 +65,3 @@ StatsGuy ---------> (UI)
 
 @enduml
 ```
-
