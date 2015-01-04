@@ -16,4 +16,4 @@ _book
 *.pdf
 
 # Plantuml
-assets/images/uml/**/*
+# assets/images/uml/**/*
